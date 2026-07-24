@@ -97,31 +97,35 @@ CityRoutePlanner/
 
 ## 📸 Screenshots
 
+---
+
 ### Main Menu
 
 ![Main Menu](screenshots/Main%20Menu.png)
+
+---
 
 ### City Map
 
 ![City Map](screenshots/City%20Map.png)
 
+---
+
 ### Shortest Route
 
 ![Shortest Route](screenshots/Shortest%20Route.png)
+
+---
 
 ### BFS Traversal
 
 ![BFS](screenshots/BFS.png)
 
-### DFS Traversal
-
-![DFS](screenshots/DFS.png)
-
 ---
 
 ### DFS Traversal
 
-![DFS](screenshots/dfs.png)
+![DFS](screenshots/DFS.png)
 
 ---
 
