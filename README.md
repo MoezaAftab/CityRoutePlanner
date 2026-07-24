@@ -145,12 +145,10 @@ This project helped me strengthen my understanding of:
 
 ## 🚀 Future Improvements
 
-- JavaFX GUI version
-- Interactive graphical city map
 - Add and remove locations dynamically
 - Traffic-aware route planning
-- Save and load city data from files
 - Emergency service routing
+- More Locations
 
 ---
 
