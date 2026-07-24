@@ -127,7 +127,7 @@ CityRoutePlanner/
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 This project helped me strengthen my understanding of:
 
@@ -143,7 +143,7 @@ This project helped me strengthen my understanding of:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Add and remove locations dynamically
 - Emergency service routing
@@ -151,7 +151,7 @@ This project helped me strengthen my understanding of:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Moeza Aftab**
 
