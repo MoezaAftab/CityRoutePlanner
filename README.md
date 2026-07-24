@@ -146,7 +146,6 @@ This project helped me strengthen my understanding of:
 ## 🚀 Future Improvements
 
 - Add and remove locations dynamically
-- Traffic-aware route planning
 - Emergency service routing
 - More Locations
 
